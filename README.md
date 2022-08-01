@@ -2,10 +2,12 @@
 
 # Miguel 30 Kamylly 20
 Repositorio criado para compartilhar trabalhos da disciplina de pensamento computacional
+
 **Cravo e a Rosa**
+
 (Sergipe)
 
-O cravo tem vinte folhas,
+*O cravo tem vinte folhas,
 A rosa tem vinte e uma;
 Anda o cravo em demanda,
 Porque a rosa tem mais uma.
@@ -23,4 +25,4 @@ Que nesta terra tomei!
 O cravo caiu doente,
 A rosa o foi visitar;
 O cravo deu um desmaio,
-A rosa pôs-se a chorar.
+A rosa pôs-se a chorar.*
