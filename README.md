@@ -32,3 +32,5 @@ https://www.escritas.org/pt/t/12595/cravo-e-a-rosa
 ![Isso é uma imagem](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBXNdtz01CXPqY0eEnXxdUjYLuCROa9WFa93m1TifUTarTCCosoQNkKazhRQgTpHPkuTA&usqp=CAU)
 
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBXNdtz01CXPqY0eEnXxdUjYLuCROa9WFa93m1TifUTarTCCosoQNkKazhRQgTpHPkuTA&usqp=CAU
+
+@LizIBugalski
